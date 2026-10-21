@@ -1,0 +1,5 @@
+{
+  "name": "usage-limits",
+  "owner": { "name": "kodkode" },
+  "plugins": [{ "name": "usage-limits", "source": "./" }]
+}

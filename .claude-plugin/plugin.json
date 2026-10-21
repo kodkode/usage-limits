@@ -1,0 +1,1 @@
+{ "name": "usage-limits", "version": "0.2.0", "description": "Always-on band above the prompt showing the session, weekly and Fable limits plus this session's cost, time, lines, model mix and cache hit rate", "types": "./types/index.d.ts", "license": "MIT" }
